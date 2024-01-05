@@ -1,4 +1,5 @@
 // created by lilaf @ strawberry milk software for evinjector
+// https://github.com/Lilafian/Evinjector/tree/main
 // script tag injector
 
 let Code = document.createElement("input");
